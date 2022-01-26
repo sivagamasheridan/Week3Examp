@@ -19,6 +19,7 @@ public class GitOperations {
         System.out.println("to learn github operations commit");
         System.out.println("changes at remote repository");
         //changes in REmote
+        //changes to learn fetch and merge
     }
     
 }
